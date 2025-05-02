@@ -1,9 +1,10 @@
 *{
   box-sizing:border-box;
 }
-*.header{
+
+h3 {
+  font:Chaucer;
+  font-size:20px;
+  color:Royal-Blue;
 }
-*.header2{
-}
-*.main{
-}
+
