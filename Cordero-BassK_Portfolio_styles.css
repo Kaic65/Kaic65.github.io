@@ -5,14 +5,14 @@
 h3 {
   font:Chaucer;
   font-size:20px;
-  color:Royal-Blue;
+  color:#FEE5F2;
 }
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgb(136, 14, 79);
+  background-color: #FFA1D3;
 }
 
 li {
@@ -21,7 +21,7 @@ li {
 
 li a {
   display: block;
-  color: white;
+  color: #FEF1F8;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -29,11 +29,9 @@ li a {
 
 
 li a:hover {
-  background-color: #111;
+  background-color: #FFA1D3;
 }
 
 body { 
-  background-color: #CC0A57
+  background-color: #FFCBE8;
 }
-  
-
