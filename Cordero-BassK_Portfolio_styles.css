@@ -1,4 +1,4 @@
-*{
+  *{
   box-sizing:border-box;
 }
 
@@ -33,5 +33,10 @@ li a:hover {
 }
 
 body { 
-  background-color: #FFCBE8;
+  background-color: #F8C8DC;
+}
+
+.textcolor{
+  color: #FEF1F8;
+
 }
