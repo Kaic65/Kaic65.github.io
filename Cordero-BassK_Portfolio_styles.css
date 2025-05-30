@@ -2,6 +2,11 @@
   box-sizing:border-box;
 }
 
+.textcolor {
+  color: #FEF1F8;
+
+}
+
 h3 {
   font:Chaucer;
   font-size:20px;
@@ -34,9 +39,4 @@ li a:hover {
 
 body { 
   background-color: #F8C8DC;
-}
-
-.textcolor {
-  color: #FEF1F8;
-
 }
