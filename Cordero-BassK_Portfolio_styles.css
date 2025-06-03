@@ -11,6 +11,11 @@ h3 {
   font:Chaucer;
   font-size:20px;
 }
+
+hr {
+  color: #FFA1D3;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -39,5 +44,5 @@ body {
   background-color: #F8C8DC;
 }
 a {
-color:#FF518D;
+color: #FFD1DC;
 }
